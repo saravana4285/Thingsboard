@@ -1,0 +1,11 @@
+JAVA="openjdk-17-jdk"
+TB="thingsboard-4.1.deb"
+TB_VER="4.1"
+WGET="wget"
+DB="postgresql-16"
+ZOOKEEPER="zookeeper"
+KAFKA="kafka_3.8.1"
+KAFKA_VER="3.8.1"
+
+DBNAME="thingsboard"
+DBPASSWD="L3tm31n"
